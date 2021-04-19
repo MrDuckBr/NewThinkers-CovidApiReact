@@ -1,0 +1,25 @@
+.Titulo{
+    background-color: rgb(8, 147, 228);
+    display: flex;
+    align-items: center;
+    justify-content:center
+}
+
+.Select{
+    border-radius: 20px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.Botao{
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+    justify-content:center;
+
+}
+
+.Buscas{
+}
